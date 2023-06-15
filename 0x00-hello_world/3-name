@@ -1,2 +1,2 @@
 #!/bin/bash
-export CFILE="3-main.c" && gcc "$CFILE" -o 3-name && ./3-name
+gcc $CFILE -o cisfun
