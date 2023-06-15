@@ -6,7 +6,7 @@
  *
  * Description: prints Dors's quote
  *
- * (By Abdulrahman)
+ *  * Return: Always 1 (Success)
  */
 
 int main(void)
