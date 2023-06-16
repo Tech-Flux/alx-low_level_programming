@@ -1,22 +1,23 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+#include <stdio.h>
+/**
+ * main - assigns a random number to int n
+ * it executes, and print it
+ * Return: Always 0 
+ */
 int main(void)
 {
 	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	printf("The number is: %d\n", n);
-
 	if (n > 0)
-		printf("The number is positive.\n");
+		printf("%d is positive\n", n);
 	else if (n == 0)
-		printf("The number is zero.\n");
-	else
-		printf("The number is negative.\n");
-
+		printf("%d is zero\n", n);
+	else if (n < 0)
+		printf("%d is negative\n", n);
 	return (0);
 }
+
