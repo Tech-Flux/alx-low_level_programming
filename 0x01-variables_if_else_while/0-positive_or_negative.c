@@ -4,7 +4,7 @@
 /**
  * main - assigns a random number to int n
  * it executes, and print it
- * Return: Always 0 (Success) 
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -20,4 +20,3 @@ int main(void)
 		printf("%d is negative\n", n);
 	return (0);
 }
-
