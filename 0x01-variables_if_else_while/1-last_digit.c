@@ -8,7 +8,7 @@
  *              of its last digit.
  *
  * Return: 0 indicating successful execution
- */
+*/
 int main(void)
 {
     int n, l;
