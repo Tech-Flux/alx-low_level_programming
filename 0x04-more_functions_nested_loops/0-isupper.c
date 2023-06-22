@@ -1,3 +1,7 @@
+/*
+ * File: 0-isupper.c
+ * Author: x-poison
+ */
 #include "main.h"
 
 /**
