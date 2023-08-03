@@ -1,11 +1,11 @@
 **Hello My Name is Abdulrahman**
 
 ```markdown
-# Project Name
+# Alx Low level programming 
 
 ## Description
 
-Briefly describe your C project, including its purpose and features.
+This project contains many files init
 
 ## Files and Functionality
 
@@ -15,9 +15,7 @@ Briefly describe your C project, including its purpose and features.
 - `malloc_function.c`: Illustrates the use of the `malloc` function for dynamic memory allocation.
 - `hello_world.c`: Classic "Hello, World!" program.
 
-## Getting Started
 
-Include instructions on how to build and run the project.
 
 ## Usage
 
@@ -25,11 +23,11 @@ Provide examples and explanations on how to use the various features and files i
 
 ## Contributing
 
-Explain how other developers can contribute to your project and the guidelines they should follow.
+Abdulrahman is the owner of this project 
 
 ## License
 
-State the license under which your project is distributed.
+This project has no license 
 
 ## Acknowledgments
 
