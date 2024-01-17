@@ -187,4 +187,4 @@ int **allocate_map(int n, int m)
 
 * **15. Big O #7**
   * [108-O](./108-O): Text file containing the average time complexity of jump
-  search in a sorted skipped linked list of of size `n`, using `step = sqrt(n)`.
+  search in a sorted skipped linked list of of size `n`, using `step = sqrt(n)`. .
